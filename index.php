@@ -204,9 +204,9 @@ if(($month+1)<=12){
 ?>
 
 <h3>
-<a href="perpetual-all.php?month=<?php echo $premonth ?>&year=<?php echo $preyear ?>"><img src="./16.png" class="b"></a>
+<a href="?month=<?php echo $premonth ?>&year=<?php echo $preyear ?>"><img src="./16.png" class="b"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="perpetual-all.php?month=<?php echo $nextmonth ?>&year=<?php echo $nextyear ?>"><img src="./16.png" class="c"></a>
+<a href="?month=<?php echo $nextmonth ?>&year=<?php echo $nextyear ?>"><img src="./16.png" class="c"></a>
 </h3>
 
 <table>
